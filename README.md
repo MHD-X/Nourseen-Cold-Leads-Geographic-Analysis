@@ -1,7 +1,7 @@
 # 🌍 Nourseen Cold Leads Geographic Analysis (2026)
 
 ## 📌 Project Overview
-This project provides a comprehensive **Geographic Analysis** of a large-scale student leads database for **Nourseen Center (2026 Archive)**. The dataset contains over **57,000 lead records**. The primary goal was to clean the raw data, process international dial codes, and visualize the density of potential clients to empower the marketing team with data-driven insights.
+This project provides a comprehensive **Geographic Analysis** of a large-scale student leads database for **Nourseen Center (2026 Archive)**. The dataset contains over **28,000 lead records**. The primary goal was to clean the raw data, process international dial codes, and visualize the density of potential clients to empower the marketing team with data-driven insights.
 
 ---
 
